@@ -21,14 +21,15 @@
 
  <br>
 
-<div>
-  <h4 style="display: inline-block">Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h3>
-  <img style="width: 10em; height: 10em; display: inline-block;" src="https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif">
+<div style="display: flex; align-items: center;">
+  <h4>Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h4>
+  <img style="width: 10em; height: 10em;" src="https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif">
 </div>
 
 <hr style="height: 1px;">
 
 ### Contato
+
 <a href= "https://www.linkedin.com/in/pedroafonsomclaro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href= "mailto:1p3dro4fons0@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href= "https://api.whatsapp.com/send?phone=5535991877339"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
