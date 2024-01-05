@@ -21,6 +21,11 @@
 
  <br>
 
+<div>
+  <h4 style="display: inline-block">Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h3>
+  <img style="width: 10em; height: 10em; display: inline-block;" src="https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif">
+</div>
+
 <hr style="height: 1px;">
 
 ### Contato
