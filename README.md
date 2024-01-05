@@ -4,7 +4,6 @@
 - 😄 Pronomes: ele/dele
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromclaro&show_icons=true&theme=onedark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromclaro&layout=compact&theme=onedark&hide_progress=true">
 </div>
 <br>
