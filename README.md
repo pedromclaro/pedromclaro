@@ -21,7 +21,7 @@
 
  <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-wrap: wrap">
   <h4>Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h4>
   <img style="width: 10em; height: 10em;" src="https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif">
 </div>
