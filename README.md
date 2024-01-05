@@ -1,14 +1,9 @@
 ### Oi 👋, sou o Pedro Afonso
-- 🔭 Atualmente trabalho como Técnico de Informática
+- 🔭 Atualmente trabalho como Técnico de Informática e Instrutor de Linux
 - 🌱 Estudando Ciência da Computação
 - 😄 Pronomes: ele/dele
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromclaro&layout=compact&theme=onedark&hide_progress=true">
-</div>
-<br>
 <div style="display: inline-block;">
-  <h3>Habilidades em:</h3>
+  <h3>Habilidades</h3>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -18,6 +13,13 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 </div>
+
+### Projetos que participo atualmente
+- __Linux Park__: Um projeto pessoal que visa levar o Linux para muitas pessoas. [Saiba mais](https://www.tabnews.com.br/pedromclaro/welcome-to-linux-park)
+- __Menthor.io__: Uma plataforma open-source e gratuita de ensino de programação, na qual junto com pessoas incríveis estou desenvolvendo um curso de Linux. [Saiba mais](https://menthor.io)
+- __TabNews__: Produzo conteúdos no TabNews, conteúdos de valor concreto para quem trabalha com programação e tecnologia. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
+
+ <br>
 
 ##
 
