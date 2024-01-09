@@ -1,7 +1,11 @@
 ### Oi 👋, sou o Pedro Afonso
-- 🔭 Atualmente trabalho como Técnico de Informática e Instrutor de Linux
+
+- 🔭 Trabalho como Técnico de Informática e Instrutor de Linux
+  
 - 🌱 Estudando Ciência da Computação
+
 - 😄 Pronomes: ele/dele
+  
 <div style="display: inline-block;">
   <h3>Habilidades</h3>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -15,14 +19,15 @@
 
 ### Projetos que participo atualmente
 - __Linux Park__: Um projeto pessoal que visa levar o Linux para muitas pessoas. [Saiba mais](https://www.tabnews.com.br/pedromclaro/welcome-to-linux-park)
+  
 - __Menthor.io__: Uma plataforma open-source e gratuita de ensino de programação, na qual junto com pessoas incríveis estou desenvolvendo um curso de Linux. [Saiba mais](https://menthor.io)
-- __TabNews__: Produzo conteúdos no TabNews, conteúdos de valor concreto para quem trabalha com programação e tecnologia. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
+  
+- __TabNews__: Possuo algumas publicações no TabNews, conteúdos de valor concreto para quem trabalha com programação e tecnologia. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
 
  <br>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap">
-  <h4>Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h4>
-  <img style="width: 10em; height: 10em;" src="https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif">
+<div>
+  <h4 align="center">Dá uma passadinha no <a href="https://blog.pedromclaro.com">meu blog</a></h4>
 </div>
 
 <hr style="height: 1px;">
