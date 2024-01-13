@@ -23,7 +23,7 @@
   
 - __Menthor.io__: An open-source and free programming education platform, where alongside amazing individuals, I am developing a Linux course. [Learn more](https://menthor.io)
   
-- __TabNews__: I have some publications on TabNews, providing concrete value for those working in programming and technology. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
+- __TabNews__: I have some publications on TabNews, providing concrete value for those working in programming and technology. [Learn more](https://www.tabnews.com.br/pedromclaro)
 
 ##
 
