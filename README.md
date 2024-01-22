@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Pedro Afonso
 
-- 🔭 I work as a **Computer Technician and Linux Instructor**
+- 🔭 I work as a **Computer Technician**
 
 - 🌱 Studying programming through the **ONE Oracle Next Education** program
 
