@@ -37,7 +37,7 @@
 
 <br>
 
-<p>I’m also trying to keep up with my blog: <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a> (pt-BR)</p>
+<p>I'm also trying to maintain my blog: <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a> (pt-BR)</p>
 
 <br>
 
