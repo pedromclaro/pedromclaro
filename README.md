@@ -1,3 +1,5 @@
+<p style="background-color: #F4B1B1; padding: 5px; border-radius: 5px;">My website is under construction, so please check out my GitHub readme</p>
+
 ### Hello 👋, I'm Pedro Afonso (@pedromclaro)
 
 - 🔭 I work as a **Computer Technician**
