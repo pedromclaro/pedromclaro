@@ -1,4 +1,4 @@
-### Hello 👋, I'm Pedro Afonso
+### Hello 👋, I'm Pedro Afonso (@pedromclaro)
 
 - 🔭 I work as a **Computer Technician**
 
