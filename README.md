@@ -1,4 +1,4 @@
-<p style="background-color: #F4B1B1; padding: 5px 3px; border-radius: 7px; max-width: 450px; margin: 0 auto; text-align: center; font-size: 0.8rem;">My website is under construction, so please check out my GitHub readme</p>
+<p style="background-color: #F4B1B1; padding: 5px 3px; border-radius: 7px; max-width: 450px; margin: 0 auto; text-align: center; font-size: 0.9rem;">My website is under construction, so please check out my GitHub readme</p>
 
 ### Hello 👋, I'm Pedro Afonso
 > But on some social networks I’m @pedromclaro
