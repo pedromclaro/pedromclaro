@@ -8,8 +8,10 @@
 - 🌱 Studying programming through the **ONE Oracle Next Education** program
 
 - 😄 Pronouns: he/him
+
+<br>
   
-#### 🐧 **I’m a Linux lover ♥️**
+### 🐧 **I’m a Linux lover ♥️**
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
