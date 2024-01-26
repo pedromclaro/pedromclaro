@@ -12,6 +12,11 @@
 <br>
   
 ### 🐧 **I’m a Linux lover ♥️**
+I've been using Linux distributions as my operating system for almost 5 years now, currently opting for Pop!_OS as my primary choice. As you can see, I've explored various others, whether on my personal computers or on servers. 
+
+The criterion for the listing below was having used a distribution for at least 3 months ;D
+> Unfortunately, I couldn't find badges for the others.
+
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -25,6 +30,7 @@
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
+![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 <br>
 
