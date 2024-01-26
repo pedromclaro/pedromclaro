@@ -1,4 +1,4 @@
-<p style="background-color: #F4B1B1; padding: 5px; border-radius: 5px; max-width: 550px">My website is under construction, so please check out my GitHub readme</p>
+<p style="background-color: #F4B1B1; padding: 5px; border-radius: 5px; max-width: 550px; margin: 0 auto;">My website is under construction, so please check out my GitHub readme</p>
 
 ### Hello 👋, I'm Pedro Afonso (@pedromclaro)
 
