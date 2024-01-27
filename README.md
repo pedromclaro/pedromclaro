@@ -1,5 +1,3 @@
-<p style="background-color: #F4B1B1; padding: 5px 3px; border-radius: 7px; max-width: 500px; margin: 0 auto; text-align: center; font-size: 0.9rem;">My website is under construction, so please check out my GitHub readme</p>
-
 ### Hello 👋, I'm Pedro Afonso
 > But on some social networks I’m @pedromclaro
 
@@ -13,8 +11,6 @@
   
 ### 🐧 **I’m a Linux lover ♥️**
 I've been using Linux distributions as my operating system for almost 5 years now, currently opting for Pop!_OS as my primary choice. As you can see, I've explored various others, whether on my personal computers or on servers. 
-
-The criterion for the listing below was having used a distribution for at least 3 months ;D
 > Unfortunately, I couldn't find badges for the others.
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
