@@ -1,7 +1,3 @@
----
-title: Pedro Afonso
----
-
 ### Hello 👋, I'm Pedro Afonso
 > But on some social networks I’m @pedromclaro
 
