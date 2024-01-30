@@ -9,7 +9,7 @@
   
 ### 🐧 **Apaixonado por Linux 🫶**
 Tenho usado distribuições Linux como meu sistema operacional há quase 5 anos, atualmente optando pelo Pop!_OS como minha distro principal. Como você pode ver, tenho experiência em várias outras, seja em meus computadores pessoais ou em servidores.
-> Infelizmente não consegui encontrar emblemas para todas : (
+> Infelizmente não consegui encontrar emblemas para todas que já utilizei ao longo dos anos
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
