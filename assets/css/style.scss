@@ -15,11 +15,15 @@ h1 {
   display: none;
 }
 
-h3 {
-  font-size: 3rem;
+.markdown-body h3 {
+  font-size: 1.48rem;
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: 400;
+}
+
+blockquote > p {
+  color: #919191;
 }
