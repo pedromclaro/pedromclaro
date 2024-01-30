@@ -1,17 +1,17 @@
-### Hello 👋, I'm Pedro Afonso
-> But on some social networks I’m @pedromclaro
+### Oi 👋, sou o Pedro Afonso
+> Em algumas redes sou o @pedromclaro
 
-- 🔭 I work as a **Computer Technician**
+- 🔭 Trabalho como **Técnico de Informática**
 
-- 🌱 Studying programming through the **ONE Oracle Next Education** program
+- 🌱 Estudando programação pela **ONE Oracle Next Education**
 
-- 😄 Pronouns: he/him
+- 😄 Pronomes: ele/dele
 
 <br>
   
-### 🐧 **I’m a Linux lover ♥️**
-I've been using Linux distributions as my operating system for almost 5 years now, currently opting for Pop!_OS as my primary choice. As you can see, I've explored various others, whether on my personal computers or on servers. 
-> Unfortunately, I couldn't find badges for the others.
+### 🐧 **Apaixonado por Linux 🫶**
+Tenho usado distribuições Linux como meu sistema operacional há quase 5 anos, atualmente optando pelo Pop!_OS como minha distro principal. Como você pode ver, tenho experiência em várias outras, seja em meus computadores pessoais ou em servidores.
+> Infelizmente não consegui encontrar emblemas para todas : (
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
@@ -30,18 +30,20 @@ I've been using Linux distributions as my operating system for almost 5 years no
 
 <br>
 
-### Projects I'm Involved In
-- __Linux Park__: A personal project aimed at bringing Linux to many people. [Learn more](https://www.tabnews.com.br/pedromclaro/welcome-to-linux-park) (pt-BR)
+### Projetos que Participo
+- __Linux Park__: Um Projeto pessoal que visa levar o Linux para muitas pessoas. [Saiba mais](https://www.tabnews.com.br/pedromclaro/welcome-to-linux-park)
   
-- __Menthor.io__: An open-source and free programming education platform, where alongside amazing individuals, I am developing a Linux course. [Learn more](https://menthor.io) (pt-BR)
+- __Menthor.io__: Uma plataforma gratuita e open-source de ensino de programação na qual, junto com pessoas incríveis estou produzindo um curso de Linux. [Saiba mais](https://menthor.io)
   
-- __TabNews__: I have some publications on TabNews, providing concrete value for those working in programming and technology. [Learn more](https://www.tabnews.com.br/pedromclaro) (pt-BR)
+- __TabNews__: Produzo conteúdo no TabNews, conteúdos com valor concreto para quem trabalha com programação e tecnologia. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
 
 <br>
 
-<p>I'm also trying to maintain my blog: <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a> (pt-BR)</p>
+<p>Também tenho um blog, no qual gostaria de produzir mais: <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a></p>
 
 <br>
+
+### Redes
 
 <a href= "https://www.github.com/pedromclaro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href= "https://www.linkedin.com/in/pedroafonsomclaro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
