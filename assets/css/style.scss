@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 * {
   color: #fff;
 }
@@ -15,4 +13,10 @@ h1 {
   display: none;
 }
 
+h3 {
+  font-size: 1.4rem;
+}
 
+p {
+  font-size: 1.1rem;
+}
