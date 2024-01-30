@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+* {
+  color: #fff;
+}
+
+body {
+  background-color: #202020;
+}
+
 h1 {
   display: none;
 }
+
+
