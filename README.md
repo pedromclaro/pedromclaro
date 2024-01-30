@@ -37,7 +37,7 @@ Tenho usado distribuições Linux como meu sistema operacional há quase 5 anos,
 
 <br>
 
-<p>Também tenho um blog, no qual gostaria de produzir mais: <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a></p>
+<p>Também tenho um blog (no qual gostaria de produzir mais): <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a></p>
 
 <br>
 
