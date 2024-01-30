@@ -1,3 +1,6 @@
+---
+<link rel="stylesheet" type="text/css" href="styles.css">
+---
 ### Hello 👋, I'm Pedro Afonso
 > But on some social networks I’m @pedromclaro
 
