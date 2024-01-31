@@ -1,4 +1,4 @@
-### Oi , sou o Pedro Afonso <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
+### Oi 👋, sou o Pedro Afonso
 > Em algumas redes sou o @pedromclaro
 
 - 🔭 Trabalho como **Técnico de Informática**
