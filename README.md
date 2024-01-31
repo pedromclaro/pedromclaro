@@ -7,7 +7,7 @@
 
 <br>
   
-### **Apaixonado por ~Linus~ Linux**
+<h3>Apaixonado por <s>Linus</s> Linux</h3>
 Tenho usado distribuições Linux como meu sistema operacional há quase 5 anos, atualmente optando pelo Pop!_OS como minha distro principal. Como você pode ver, tenho experiência em várias outras, seja em meus computadores pessoais ou em servidores.
 > Infelizmente não consegui encontrar emblemas para todas que já utilizei ao longo dos anos
 
