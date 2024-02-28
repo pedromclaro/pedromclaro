@@ -35,6 +35,8 @@ Tenho usado distribuições Linux como meu sistema operacional há quase 5 anos,
   
 - __TabNews__: Produzo conteúdo no TabNews, conteúdos com valor concreto para quem trabalha com programação e tecnologia. [Saiba mais](https://www.tabnews.com.br/pedromclaro)
 
+- __TuxTalk__: Newsletter sobre Linux - e tecnologia em geral - para quem gosta de conteúdos curtos e diretos. [Saiba mais](https://pedromclaro.substack.com/)
+
 <br>
 
 <p>Também tenho um blog (no qual gostaria de produzir mais): <a href= "https://blog.pedromclaro.com">blog.pedromclaro.com</a></p>
