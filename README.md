@@ -2,7 +2,7 @@
 > Em algumas redes sou o @pedromclaro
 
 - 🔭 Trabalho como **Técnico de Informática**
-- 🌱 Estudando programação Back-end pela **ONE Oracle Next Education**
+- 🌱 Estudando programação pela **ONE Oracle Next Education**
 - 😄 Pronomes: ele/dele
 
 <br>
