@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou o Pedro Afonso</h1>
+<h2 align="center">Oi 👋, sou o Pedro Afonso</h2>
 <h3 align="center">Em algumas redes sou o @pedromclaro</h3>
 <br>
 
