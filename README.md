@@ -1,8 +1,11 @@
-### Oi 👋, sou o Pedro Afonso
-> Em algumas redes sou o @pedromclaro
+<h1 align="center">Oi 👋, sou o Pedro Afonso</h1>
+<h3 align="center">Em algumas redes sou o @pedromclaro</h3>
+<br>
 
 - 🔭 Trabalho como **Técnico de Informática**
+
 - 🌱 Estudando programação pela **ONE Oracle Next Education**
+ 
 - 😄 Pronomes: ele/dele
 
 <br>
