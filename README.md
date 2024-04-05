@@ -1,5 +1,5 @@
-<h2 align="center">Oi 👋, sou o Pedro Afonso</h2>
-<h3 align="center">Em algumas redes sou o @pedromclaro</h3>
+<h2>Oi 👋, sou o Pedro Afonso</h2>
+<h3>Em algumas redes sou o @pedromclaro</h3>
 <br>
 
 - 🔭 Trabalho como **Técnico de Informática**
