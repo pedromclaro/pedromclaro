@@ -2,7 +2,7 @@
 <h3>Em algumas redes sou o @pedromclaro</h3>
 <br>
 
-- 🔭 Trabalho como **Técnico de Informática**
+- 🔭 Trabalho como **Instrutor de Linux**
 
 - 🌱 Estudando programação pela **ONE Oracle Next Education**
  
